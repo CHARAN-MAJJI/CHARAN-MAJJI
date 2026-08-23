@@ -20,9 +20,11 @@
 
 <br/>
 
-<!-- GitHub Activity Graph -->
+<!-- Tech Stack & Tooling Icon Grid -->
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CHARAN-MAJJI&theme=react-dark&bg_color=111827&color=22D3EE&line=10B981&point=22D3EE&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,mysql,html,css,js,git,github,vscode&theme=dark" alt="Charan Teja Majji Tech Stack" />
+  </a>
 </p>
 
 <br/>
