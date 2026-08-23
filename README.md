@@ -1,8 +1,8 @@
 <!-- Animated Dithered GitHub Profile Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHARAN-MAJJI/CHARAN-MAJJI/main/dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHARAN-MAJJI/CHARAN-MAJJI/main/light.svg?v=1">
-  <img alt="Charan Teja Majji Animated GitHub Profile Banner" src="https://raw.githubusercontent.com/CHARAN-MAJJI/CHARAN-MAJJI/main/dark.svg?v=1" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Charan Teja Majji Animated GitHub Profile Banner" src="dark.svg" width="100%">
 </picture>
 
 <br/><br/>
