@@ -1,15 +1,15 @@
 <!-- Animated Dithered GitHub Profile Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=100">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg?v=100">
-  <img alt="Charan Teja Majji Animated GitHub Profile Banner" src="dark.svg?v=100" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=101">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg?v=101">
+  <img alt="Charan Teja Majji Animated GitHub Profile Banner" src="dark.svg?v=101" width="100%">
 </picture>
 
 <br/><br/>
 
 <!-- Social Badges Section -->
 <p align="center">
-  <a href="https://linkedin.com/in/charantejamajji"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/charan-teja-majji-b56066291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
   <a href="mailto:majjicharanteja2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   &nbsp;&nbsp;
