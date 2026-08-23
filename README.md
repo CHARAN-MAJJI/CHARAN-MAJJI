@@ -20,11 +20,9 @@
 
 <br/>
 
-<!-- Side-by-Side Themed GitHub Stats & Top Languages -->
+<!-- GitHub Activity Graph -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CHARAN-MAJJI&show_icons=true&title_color=22D3EE&text_color=94A3B8&icon_color=10B981&bg_color=111827&border_color=374151&hide_border=true&hide_rank=true" alt="GitHub Stats" />
-  &nbsp;
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHARAN-MAJJI&layout=compact&title_color=22D3EE&text_color=94A3B8&icon_color=10B981&bg_color=111827&border_color=374151&hide_border=true" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CHARAN-MAJJI&theme=react-dark&bg_color=111827&color=22D3EE&line=10B981&point=22D3EE&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <br/>
